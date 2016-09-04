@@ -1,2 +1,2 @@
 # linux-wang.github.io
-blog
+不如hexo好用   
